@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom';
 import './Footer.css';
-import {FaHome, FaLinkedin, FaMailBulk, FaPhone} from 'react-icons/fa';
+import {FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTelegram} from 'react-icons/fa';
 export default function Footer(){
     return (
         <div className='footer'>
@@ -23,6 +23,7 @@ export default function Footer(){
                     <p>I am a motivated and dedicated student pursuing Artificial Intelligence. With a strong passion for Reactjs Developer, I am committed to honing my skills and expanding my knowledge. I thrive on tackling new challenges and continuously seek opportunities to grow both personally and professionally.</p>
                     <div className="social">
                     <NavLink to='https://www.linkedin.com/in/yagneswar-palnati-b41494240/'><FaLinkedin size={30} style={{color:"white", marginRight:'1rem'}}/></NavLink>
+                    <NavLink to='https://t.me/Yagneswar25'><FaTelegram size={30} style={{color:"white", marginRight:'1rem'}}/></NavLink>
                     
                     </div>
                  </div>

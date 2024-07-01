@@ -9,6 +9,13 @@ export default function AboutContent() {
             <div className="left">
                 <h1>Who Am I?</h1>
                 <p>I'm Yagneswar Palnati , Enthusiastic Reactjs Developer</p>
+                <h1>My Skills :</h1>
+             
+                <p>Python, C/C++, Java, Reactjs, HTML, CSS, DSA</p>
+                <h1>Tools:</h1>
+                <p>GitHub,VS Code,Mongo DB,Post Man,Jupiter Note Book</p>
+                <h1>Soft Skills:</h1>
+                <p>Team Player, Problem Solving, Adaptability, Creativity</p>
                 <NavLink to='https://drive.google.com/file/d/1IBjaTb71hrR2_Qjv_fRFqJ5COfULEe5I/view?usp=drive_link' className='btn'>Resume</NavLink>
             </div>
             <div className="right">

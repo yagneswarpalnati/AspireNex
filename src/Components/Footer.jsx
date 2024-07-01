@@ -24,7 +24,7 @@ export default function Footer(){
                     <div className="social">
                     <NavLink to='https://www.linkedin.com/in/yagneswar-palnati-b41494240/'><FaLinkedin size={30} style={{color:"white", marginRight:'1rem'}}/></NavLink>
                     <NavLink to='https://t.me/Yagneswar25'><FaTelegram size={30} style={{color:"white", marginRight:'1rem'}}/></NavLink>
-                    
+        
                     </div>
                  </div>
             </div>

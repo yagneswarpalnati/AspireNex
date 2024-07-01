@@ -1,11 +1,11 @@
-import NavBar from "../NavBar";
+
+import { NavLink } from "react-router-dom";
 import Footer from "../Footer";
-import HeroImg2 from "../HeroImg2";
+import NavBar from "../NavBar";
 export default function Contact(){
     return (
         <div>
             <NavBar/>
-                <HeroImg2  heading="CONTACT." text="Lets have a chat"/>
             <Footer/>
         </div>
     );

@@ -7,7 +7,7 @@ const Data=[
         imgsrc:pr1,
         title:'Resturant Application',
         text:'Developed a fully functional restaurant ordering application to streamline the ordering process for customers.Utilized the MERN stack to build a scalable and efficient application and Integrated ordering functionalities seamlessly with robust customer data entry capabilities, ensuring a smooth user experience',
-        view:'https://resturant-five-lake.vercel.app/',
+        view:'https://resturant-application-ruby.vercel.app/',
         source:'https://github.com/yagneswarpalnati/Resturant_application/tree/main'
     },
     {
